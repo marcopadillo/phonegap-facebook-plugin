@@ -96,6 +96,7 @@
               <key>CFBundleURLSchemes</key>
               <array>
                 <string>fb$APP_ID</string>
+                <string>$URL_SCHEME</string>
               </array>
             </dict>
           </array>
